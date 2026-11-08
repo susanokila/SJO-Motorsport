@@ -1,0 +1,6 @@
+{
+  "name": "Velox Automotive Styling & Wraps",
+  "description": "Premium automotive accessories, ceramic tint, vinyl vehicle wraps, and paint protection with easy vehicle model search and fitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
